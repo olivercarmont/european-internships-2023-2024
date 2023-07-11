@@ -4,6 +4,8 @@ Curated a list of all the European tech internships I could find for fall and sp
 
 ⚠️ This is only for **Fall 2023** and **Spring 2023**
 
+# Complete List:
+
 | Company                                             | Location   | Roles |
 | --------------------------------------------------- | ---------- | ----------- |
 | OneWeb | London, UK       | [**Backbone Engineering Intern**](https://oneweb.net/work-with-us/careers/vacancies/4835952)      
