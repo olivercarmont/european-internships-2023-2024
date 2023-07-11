@@ -2,10 +2,10 @@
 
 Curated a list of all the European tech internships I could find for fall and spring 2024. Thought there was a lack of repos covering the EU area.
 
-## List
+⚠️ This is only for **Fall 2023** and **Spring 2023**
 
 | Company                                             | Location   | Roles |
 | --------------------------------------------------- | ---------- | ----------- |
-| OneWeb | Internships       | [**Backbone Engineering Intern**](https://oneweb.net/work-with-us/careers/vacancies/4835952)      
+| OneWeb | London, UK       | [**Backbone Engineering Intern**](https://oneweb.net/work-with-us/careers/vacancies/4835952)      
 
 
