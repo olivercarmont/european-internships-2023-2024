@@ -4,7 +4,7 @@ Curated a list of all the European tech internships I could find for fall and sp
 
 ⚠️ This is only for **Fall 2023** and **Spring 2023**
 
-⬇️ Scroll to bottom (https://github.com/olivercarmont/european-internships-2023-2024#that's-it!)
+[⬇️ Scroll to bottom] (https://github.com/olivercarmont/european-internships-2023-2024#that's-it!)
 
 | Company                                             | Location   | Roles |
 | --------------------------------------------------- | ---------- | ----------- |
