@@ -6,8 +6,8 @@ Curated a list of all the European tech internships I could find for fall and sp
 
 [⬇️ Scroll to bottom](https://github.com/olivercarmont/european-internships-2023-2024#that's-it!)
 
-| Company                      | Location   |  Length   | Roles |
-| ---------------------------- | ---------- | ----------- | --------------- |
+| Company                                     | Location   |  Length   | Roles |
+| ------------------------------------------- | ---------- | ----------- | --------------- |
 | OneWeb | London, UK   | Unknown    | [**Backbone Engineering Intern**](https://oneweb.net/work-with-us/careers/vacancies/4835952)      
 | Doly Laboratories | London, UK  | Full year placement      | [**Intern, CP Strategic Projects**](https://jobs.dolby.com/careers/job/15044518?domain=dolby.com&utm_source=Linkedin&utm_medium=campaign123&jobPipeline=LinkedIn) 
 | Koche | Switzerland / UK  | Full year      | [**Data Architect/Knowledge Engineer Intern**](https://careers.roche.com/global/en/job/ROCHGLOBAL202307115613EXTERNALENGLOBAL/Data-Architect-Knowledge-Engineer-Intern-for-1-year-m-f-d?utm_source=linkedin&utm_medium=phenom-feeds) 
